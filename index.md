@@ -6,6 +6,6 @@
 
 ## [Experiences](/contents/jobs.md)
 
-## [Skills](/contents/programming.md)
+## [Programming](/contents/programming.md)
 
 ## [Misc.](/contents/misc.md)
