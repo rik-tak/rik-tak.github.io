@@ -58,9 +58,9 @@
 ### Orbitaloid  
 内容: 同人音楽ゲームイベントの提出作品。  
 担当: 楽曲制作  
-URL: https://youtu.be/LQZuWSlGZsA 
+[YouTube](https://youtu.be/LQZuWSlGZsA)
 
 ### Grief Blaster  
 内容: 同人音楽ゲームイベントの提出作品。  
 担当: 映像制作   
-URL: https://youtu.be/w2DWr40QD3k
+[YouTube](https://youtu.be/w2DWr40QD3k)

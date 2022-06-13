@@ -1,35 +1,4 @@
 # Programming
-## 言語経験
-- Python
-    - PyTorch, pandas, NumPy, Matplotlib, Jupyter Notebook
-- JavaScript, HTML, CSS
-    - React, Vue, Node.js, jQuery, TailwindCSS
-- Java
-- C, C++
-- Fortran
-- PHP
-- SQL
-- Ruby
-- LaTeX
-- VBA
-
-## その他開発環境
-- OS
-    - Windows, Linux, Mac
-- クラウド
-    - Firebase, AWS
-- ツール
-    - Vim, Visual Studio Code
-    - Docker, nginx, Redis
-    - Git, GitHub
-
-## 競技プログラミング
-私はプログラミングを学び始めた頃に、競技プログラミングを最も活用しました。  
-競技プログラミングでは、問題の把握・解法の考案・コーディングを素早く行うことが求められます。  
-目的を持ってプログラムを完成させるという手続きを何度も繰り返してきた経験が、今の言語学習や開発で活かされています。
-
-[AtCoder](https://atcoder.jp/users/A1phamath) (Rating最高値 1088)  
-[個人ライブラリ](https://github.com/rik-tak/kyopro-python) (Python)
 
 ## 個人制作物
 
@@ -67,3 +36,35 @@
 デバッグが思い通りに進まず、悩んだまま一日が過ぎてしまうという失敗がありました。  
 この失敗を反省し、研究室の先輩に現状を伝え、積極的に意見を仰ぐようにしました。  
 限られた時間の中で効率よく作業を行う上では、仲間と意見交換し、協力することが重要だと学びました。
+
+## 競技プログラミング
+私はプログラミングを学び始めた頃に、競技プログラミングを最も活用しました。  
+競技プログラミングでは、問題の把握・解法の考案・コーディングを素早く行うことが求められます。  
+目的を持ってプログラムを完成させるという手続きを何度も繰り返してきた経験が、今の言語学習や開発で活かされています。
+
+[AtCoder](https://atcoder.jp/users/A1phamath) (Rating最高値 1088)  
+[個人ライブラリ](https://github.com/rik-tak/kyopro-python) (Python)
+
+## 言語経験
+- Python
+    - PyTorch, pandas, NumPy, Matplotlib, Jupyter Notebook
+- JavaScript, HTML, CSS
+    - React, Vue, Node.js, jQuery, TailwindCSS
+- Java
+- C, C++
+- Fortran
+- PHP
+- SQL
+- Ruby
+- LaTeX
+- VBA
+
+## その他開発環境
+- OS
+    - Windows, Linux, Mac
+- クラウド
+    - Firebase, AWS
+- ツール
+    - Vim, Visual Studio Code
+    - Docker, nginx, Redis
+    - Git, GitHub
