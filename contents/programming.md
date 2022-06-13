@@ -6,6 +6,7 @@
     - React, Vue, Node.js, jQuery, TailwindCSS
 - Java
 - C, C++
+- Fortran
 - PHP
 - SQL
 - Ruby
@@ -23,7 +24,12 @@
     - Git, GitHub
 
 ## 競技プログラミング
-[AtCoder](https://atcoder.jp/users/A1phamath) (Rating最高値 1088)
+私はプログラミングを学び始めた頃に、競技プログラミングを最も活用しました。  
+競技プログラミングでは、問題の把握・解法の考案・コーディングを素早く行うことが求められます。  
+目的を持ってプログラムを完成させるという手続きを何度も繰り返してきた経験が、今の言語学習や開発で活かされています。
+
+[AtCoder](https://atcoder.jp/users/A1phamath) (Rating最高値 1088)  
+[個人ライブラリ](https://github.com/rik-tak/kyopro-python) (Python)
 
 ## 個人制作物
 
