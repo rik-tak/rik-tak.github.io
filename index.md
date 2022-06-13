@@ -1,12 +1,11 @@
-# Rikito Takahashi
+# About Me
+京都大学 [黒橋・褚・村脇研究室](https://nlp.ist.i.kyoto-u.ac.jp/) の修士学生です。  
+自然言語処理、動画キャプション生成の研究をしています。
 
-## 学歴
-### 京都大学大学院 情報学研究科 知能情報学専攻 (2021年4月 ~ 現在)
-指導教員: [黒橋 禎夫](https://nlp.ist.i.kyoto-u.ac.jp/)
+## [Education & Research](/contents/education.md)
 
-### 京都大学 工学部 電気電子工学科 (2015年4月 ~ 2021年3月)
-指導教員: [雨宮 尚之](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.323855153ca6a2ab.html)
+## [Experiences](/contents/jobs.md)
 
-## [アルバイト経験](/contents/jobs.md)
+## [Skills](/contents/programming.md)
 
-## [プログラミング](/contents/programming.md)
+## [Misc.](/contents/misc.md)
